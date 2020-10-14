@@ -1,2 +1,2 @@
 def gitName():
-	rutrun "choi"
+	rutrun "a"
